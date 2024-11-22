@@ -1,0 +1,23 @@
+<?php
+return [
+    'Send Message' => 'Gửi tin nhắn',
+    'Add friend' => 'Thêm bạn',
+    'Unfriend' => 'Hủy kết bạn',
+    'Online' => 'Trực tuyến',
+    'Offline' => 'Ngoại tuyến',
+    'Create group with this user' => 'Tạo nhóm với người dùng này',
+    'Create new group' => 'Tạo nhóm mới',
+    'New group' => 'Nhóm mới',
+    'Enter name for your group' => 'Nhập tên cho nhóm của bạn',
+    'Members' => 'Thành viên',
+    'Leave group' => 'Rời nhóm',
+    'Disolve group' => 'Giải tán nhóm',
+    'Update success' => 'Cập nhật thành công',
+    'Block' => 'Chặn',
+    'Unblock' => 'Bỏ chặn',
+    'You are blocked' => 'Bạn đã bị chặn',
+    'Only the admin can manage' => 'Chỉ quản trị viên mới có thể quản lý',
+    'Group avatar' => 'Ảnh đại diện nhóm',
+    'Create success' => 'Tạo thành công',
+    'Create fail' => 'Tạo không thành công',
+];
